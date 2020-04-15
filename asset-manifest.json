@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/potwory/static/css/main.c0246370.chunk.css",
+    "main.js": "/potwory/static/js/main.800a38f2.chunk.js",
+    "main.js.map": "/potwory/static/js/main.800a38f2.chunk.js.map",
+    "runtime-main.js": "/potwory/static/js/runtime-main.25e34f85.js",
+    "runtime-main.js.map": "/potwory/static/js/runtime-main.25e34f85.js.map",
+    "static/js/2.7aaef059.chunk.js": "/potwory/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/potwory/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/potwory/index.html",
+    "precache-manifest.c521a1d7c870318a20993b060edc8cab.js": "/potwory/precache-manifest.c521a1d7c870318a20993b060edc8cab.js",
+    "service-worker.js": "/potwory/service-worker.js",
+    "static/css/main.c0246370.chunk.css.map": "/potwory/static/css/main.c0246370.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/potwory/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25e34f85.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.c0246370.chunk.css",
+    "static/js/main.800a38f2.chunk.js"
+  ]
+}
