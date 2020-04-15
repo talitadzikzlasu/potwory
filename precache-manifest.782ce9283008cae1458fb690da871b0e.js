@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea15c5132bae4fa3b7455d801f7b539e",
+    "revision": "557bf92b41706ae0b29133360f52b378",
     "url": "/potwory/index.html"
   },
   {
-    "revision": "fd64e850526f7aee7f19",
+    "revision": "516094711106b0b16ca2",
     "url": "/potwory/static/css/main.c0246370.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/potwory/static/js/2.7aaef059.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd64e850526f7aee7f19",
-    "url": "/potwory/static/js/main.800a38f2.chunk.js"
+    "revision": "516094711106b0b16ca2",
+    "url": "/potwory/static/js/main.88d566b0.chunk.js"
   },
   {
     "revision": "fb137d2977456f676620",
